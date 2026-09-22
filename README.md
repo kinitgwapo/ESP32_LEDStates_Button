@@ -1,6 +1,6 @@
 # ESP32_LEDStates_Button
 
-![Circuit Diagram](Circuit-Diagram.jpg)
+![Circuit Diagram](Circuit-Diagram)
 
 ### Observation Table
 
